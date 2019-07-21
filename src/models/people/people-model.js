@@ -4,7 +4,12 @@ const DataModel = require('../memory.js');
 
 class People extends DataModel {
 
-
+  /**
+   *
+   *
+   * @returns object
+   * @memberof People
+   */
   schema() {
     return {
       id: { required: true, type: 'string' },
@@ -14,6 +19,13 @@ class People extends DataModel {
     };
   }
 
+  /**
+   *
+   *
+   * @static
+   * @returns object
+   * @memberof People
+   */
   static sampleRecord() {
     return {
       'firstName': 'Test',
