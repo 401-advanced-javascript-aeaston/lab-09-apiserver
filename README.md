@@ -5,7 +5,7 @@
 ### Author: Adrienne Easton
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-09-apiserver/pull/2)
 * [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-09-apiserver.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-09-apiserver)
 
 #### Documentation
