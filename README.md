@@ -7,6 +7,8 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-09-apiserver/pull/2)
 * [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-09-apiserver.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-09-apiserver)
+* [heroku](https://ae-lab-09-api-server.herokuapp.com/docs)
+* [swagger]()
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
